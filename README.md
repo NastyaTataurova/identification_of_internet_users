@@ -1,2 +1,2 @@
 # identification_of_internet_users
-Идентификация пользователя по последовательности из нескольких посещенных им подряд сайтов. Итоговый проект курса от МФТИ и Яндекса.
+Identification of a user by a sequence of several sites visited in a row. The final draft of the course from MIPT and Yandex.
